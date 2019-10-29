@@ -1,0 +1,14 @@
+#mycanvas {
+    border : solid 1px grey; 
+    display: block;
+    margin: 5%;
+    box-shadow: 2px 4px 10px grey;
+}
+.tools {
+    margin-left : 5%;
+}
+.tools button:focus  {
+    background-color: black;
+    color: white;
+}
+
